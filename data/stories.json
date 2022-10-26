@@ -21,12 +21,32 @@
     },
     {
         "id": "05",
-        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/the-ugly-duckling-small-thumbnail.jpg",
-        "name": "The Ugly DucklingThe Ugly Duckling"
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/mannys-bananas-story-small-thumbnail.png",
+        "name": "Manny's Bananas Story"
     },
     {
         "id": "06",
-        "image": "'https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/brown-bears-story-small-thumbnail.png",
-        "name": "Brown Bears Story"
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/goldilock-three-bears-thumbnail.jpg",
+        "name": "Goldilocks and the Three Bears"
+    },
+    {
+        "id": "07",
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/giant-pandas-story-small-thumbnail.png",
+        "name": "Giant Pandas Story"
+    },
+    {
+        "id": "08",
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/fox-top-story-small-thumbnail.png",
+        "name": "Fox Top Story"
+    },
+    {
+        "id": "09",
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/muggos-raft-small-thumbnail.png",
+        "name": "Muggo's Raft"
+    },
+    {
+        "id": "10",
+        "image": "https://cdn.education.com/cdn-cgi/image/width=230/files/static/game-images/three-billy-goats-gruff-small-thumbnail.jpg",
+        "name": "Three Billy Goats Gruff"
     }
 ]
