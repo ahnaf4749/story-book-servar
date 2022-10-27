@@ -4,69 +4,79 @@
         "image": "https://cdn.education.com/files/static/game-images/little-red-hen-story-thumbnail.png",
         "name": "Little Red Hen Story",
         "details": "The hijinks of that little bird have created yet another learning opportunity for your kindergartners to master the proper sequencing of stories. While reviewing The Little Red Hen, students can pick the storys pages out of a tree, put the book back together in the proper order, and give then it back to Floyd the Dog.",
-        "title": "The Little Red Hen is a classic tale. Learn about the rewards of hard work -- and practice some sight words -- in this colorful storybook version."
+        "title": "The Little Red Hen is a classic tale. Learn about the rewards of hard work -- and practice some sight words -- in this colorful storybook version.",
+        "price": 50
     },
     {
         "id": "02",
         "image": "https://cdn.education.com/files/static/game-images/crabby-crab-story-thumbnail.jpg",
         "name": "The Crabby Crab",
         "details": "Have your kid sit back and enjoy this charming story of the crab and his thoughtful seagull friend. With each page focused on a new number, your preschooler will be taking in some subtle math practice. Count the items and point out how they're positioned in the shape of each number as you read along with your child.",
-        "title": "In this first guided lesson on numbers 0 to 10, kids will be taught rote count sequence and numeral recognition."
+        "title": "In this first guided lesson on numbers 0 to 10, kids will be taught rote count sequence and numeral recognition.",
+        "price": 110
     },
     {
         "id": "03",
         "image": "https://cdn.education.com/files/static/game-images/lion-and-the-rat-thumbnail.jpg",
         "name": "The Lion and the Rat",
         "details": "This online resource provides young readers a great introduction to early literacy concepts such as reading left to right and top to bottom. Children will read along to the adorable story The Lion and the Rat. The words are highlighted making it easy to follow along! Preschoolers will enjoy the beautiful illustrations while building their vocabulary and learning about story structure.",
-        "title": "In this lesson, preschoolers focus on the alphabet by learning the letters L, R, and K. Kids are guided through the classic children's story of The Lion and the Rat,"
+        "title": "In this lesson, preschoolers focus on the alphabet by learning the letters L, R, and K. Kids are guided through the classic children's story of The Lion and the Rat,",
+        "price": 200
     },
     {
         "id": "04",
         "image": "https://cdn.education.com/files/static/game-images/three-little-pigs-thumbnail.jpg",
         "name": "The Three Little Pigs",
         "details": "In the classic tale of the Three Little Pigs, the title characters set out to build their houses, then a big bad wolf comes to test the strength of each house. With highlighted, read-along words and lively narration, this interactive story helps introduce preschoolers to early literacy concepts, such as reading right to left and reading top to bottom.",
-        "title": "This guided lesson in the letters P, W and N will help kids to identify the letters, and also reinforces the sound that each letter makes. "
+        "title": "This guided lesson in the letters P, W and N will help kids to identify the letters, and also reinforces the sound that each letter makes. ",
+        "price": 150
     },
     {
         "id": "05",
         "image": "https://cdn.education.com/files/static/game-images/mannys-bananas-story-thumbnail.png",
         "name": "Manny's Bananas Story",
         "details": "Manny loves bananas, but he also loves sharing. Learn subtraction with the help of a generous monkey named Manny.Subtraction isn't sad -- you have to take some things away, but you get to share! Learn the basics of subtracting in this sweet song about friendship.",
-        "title": "Once kindergarteners understand the concept of more and less, they will move on to basic subtraction with single-digit numbers. This can be a tricky concept for kids to master."
+        "title": "Once kindergarteners understand the concept of more and less, they will move on to basic subtraction with single-digit numbers. This can be a tricky concept for kids to master.",
+        "price": 125
     },
     {
         "id": "06",
         "image": "https://cdn.education.com/files/static/game-images/brown-bears-story-thumbnail.png",
         "name": "Brown Bears Story",
         "details": "Chances are your child has a teddy bear at home. Introduce your young reader to the real-life version in this short nonfiction story all about brown bears.",
-        "title": "Learning how to read fluently includes more than just piecing letters together to form words. Kids also have to read from left to right and notice spacing between words."
+        "title": "Learning how to read fluently includes more than just piecing letters together to form words. Kids also have to read from left to right and notice spacing between words.",
+        "price": 85
     },
     {
         "id": "07",
         "image": "https://cdn.education.com/files/static/game-images/giant-pandas-story-thumbnail.png",
         "name": "Giant Pandas Story",
         "details": "It's never too early to start nonfiction learning! Read this short story full of facts about giant pandas, and learn early reading concepts like fluency, too.Chances are your child has a teddy bear at home. Introduce your young reader to the real-life version in this short nonfiction story all about brown bears.",
-        "title": "Learning how to read fluently includes more than just piecing letters together to form words. Kids also have to read from left to right and notice spacing between words."
+        "title": "Learning how to read fluently includes more than just piecing letters together to form words. Kids also have to read from left to right and notice spacing between words.",
+        "price": 258
     },
     {
         "id": "08",
         "image": "https://cdn.education.com/files/static/game-images/fox-top-story-thumbnail.png",
         "name": "Fox Top Story",
         "details": "Short o words are the feature of this short story, all about a fox looking for his top. This guided lesson can help kids master the short O sound. Kids will be taught to identify the short O within common sight words, which will boost reading fluency. Don't forget to check out the short O printables at the end of the lesson to continue the learning.",
-        "title": "Knowing how to read short O words like hot, pot, and top takes practice. This guided lesson can help kids master the short O sound. Kids will be taught to identify the short O within common sight words."
+        "title": "Knowing how to read short O words like hot, pot, and top takes practice. This guided lesson can help kids master the short O sound. Kids will be taught to identify the short O within common sight words.",
+        "price": 85
     },
     {
         "id": "09",
         "image": "https://cdn.education.com/files/static/game-images/muggos-raft-thumbnail.png",
         "name": "Muggo's Raft",
         "details": "How long should Muggo's raft be? This math story is a great complement to first grade measurement lessons, introducing basic measurement concepts in a clever way. Kids will learn that there are different units of measurement, and Muggo's raft will come out different sizes depending on which unit is used. Once through with the lesson, kids can gain extra practice with measurement and data with the accompanying worksheets.",
-        "title": "Measurement and data in first grade includes such important concepts as comparing the length and weight of two objects using a third object. "
+        "title": "Measurement and data in first grade includes such important concepts as comparing the length and weight of two objects using a third object. ",
+        "price": 96
     },
     {
         "id": "10",
         "image": "https://cdn.education.com/files/static/game-images/three-billy-goats-gruff-thumbnail.jpg",
         "name": "Three Billy Goats Gruff",
         "details": "Once upon a time, there were three billy goats who needed to outsmart a sneaky fox. In this interactive version of the beloved fairy tale, children will be enchanted by the stunning illustrations and simple prose. With three different reading modes, kids can listen and follow along with the highlighted words, or read it by themselves. Perfect for practicing sight words, this story will appeal to every kind of kid.",
-        "title": "Sight words, common words that help kids build reading fluency, are an important part of the kindergarten curriculum.This guided lesson introduces kids."
+        "title": "Sight words, common words that help kids build reading fluency, are an important part of the kindergarten curriculum.This guided lesson introduces kids.",
+        "price": 175
     }
 ]
